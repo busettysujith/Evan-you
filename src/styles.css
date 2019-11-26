@@ -4,6 +4,7 @@ body {
     -webkit-font-smoothing: antialiased;
     padding: 5vh 10vw;
     color: #121314;
+    background-color: #f0f2f5;
   }
   h1 {
     font-size: 4.5em;
@@ -42,6 +43,5 @@ body {
       color:RGB(150, 242, 215);
   }
   .love{
-    font-size: 16px; 
-    color:RGB(150, 242, 215);  
+    font-size: 16px;
   }
